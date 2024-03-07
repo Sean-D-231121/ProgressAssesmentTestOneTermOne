@@ -1,0 +1,15 @@
+.header{
+    height: 60vh;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.overlay{
+    width:inherit;
+    height: inherit;
+    background-color: rgba(0, 0,0, 0.5);
+}
+.card{
+    background-color: rgb(159, 238, 159) !important;
+    color: black !important;
+}
